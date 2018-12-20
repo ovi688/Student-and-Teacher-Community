@@ -1,0 +1,100 @@
+*{margin:0;padding:0}
+body{font-family: 'Gudea', sans-serif;font-size:15px;line-height:20px;color:#666}
+.fix{overflow:hidden}
+.main{width:960px;margin:20px auto;display:block}
+.header{}
+.slider{width:960px;}
+.maincontent{margin-top:20px;margin-bottom:20px}
+.sidebar{float:left;width:260px;margin-right:30px;background:#E9E9E9;padding:20px}
+.sidebar h2{margin-top: -6px;
+color: #fff;
+background: #000;
+width: 261px;
+padding: 11px;
+padding-left: 13px;
+margin-left: -19px;
+padding-right: 36px;}
+
+
+.sidebar ul{margin:0;padding:0;list-style:none;}
+.sidebar ul li{padding:5px;border-bottom:1px solid #ddd}
+.sidebar ul li a{text-decoration:none;color:#666}
+.sidebar ul li a:hover{color:#000}
+.content{width:630px}
+.content h2{margin-bottom:15px;font-width:normal;}
+.content p{margin-bottom:5px;}
+
+section{
+   width:75%;
+	margin-left:auto;
+	margin-right:auto;
+	height:700px;
+	overflow:visible;
+	margin-top:1px;
+}
+
+#login{
+   width:30%;
+   background-color:White;
+   height:500px;
+   float:left;
+   margin-top:50px;
+   overflow:hidden;
+   box-shadow: 5px 5px 5px #888888;
+}
+
+#title1{
+    width:100%;
+	padding-top:20px;
+	background-color:#c5c3c3;
+	height:50px;
+	border:1px solid #c5c3c3;
+	color:black;
+	box-shadow: 2px 15px 25px #c5c3c3 inset;
+	
+}
+
+#student{
+   width:30%;
+   background-color:White;
+  height:500px;
+   float:left;
+   margin-left:30px;
+   margin-top: 50px;
+   overflow:hidden;
+   box-shadow: 5px 5px 5px #888888;
+}
+
+
+
+#title2{
+    width:100%;
+	padding-top:20px;
+	background-color:#c5c3c3;
+	height:50px;
+	border:1px solid #c5c3c3;
+	color:black;
+	box-shadow: 2px 15px 25px #c5c3c3 inset;
+}
+
+#teacher{
+   width:30%;
+   background-color:White;
+  height:500px;
+   float:left;
+   margin-left:30px;
+   margin-top:50px;
+   overflow:hidden;
+   box-shadow: 5px 5px 5px #888888;
+}
+
+#title3{
+    width:100%;
+	padding-top:20px;
+	background-color:#c5c3c3;
+	height:50px;
+	border:1px solid #c5c3c3;
+	color:black;
+	box-shadow: 2px 15px 25px #c5c3c3 inset;
+}	
+.footer{padding:10px;background:#BBBBBB;}
